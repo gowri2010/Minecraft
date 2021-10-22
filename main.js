@@ -86,7 +86,7 @@ function my_keydown(e)
     }
     if(keyPressed == '76')
     {
-        new_image('light_green.jpg);
+        new_image('light_green.jpg');
         console.log("l");
     }
     if(keyPressed == '84')
